@@ -1,0 +1,16 @@
+input::placeholder {
+  color: #ffffff6b;
+}
+
+.search-input {
+  background: #464979;
+  border-radius: 50px;
+  border: none;
+  color: #ffffff6b;
+  font-size: 36px;
+  height: 90.65px;
+  min-height: 90.65px;
+  margin: 59.35px 78px 29.35px 69px;
+  outline: none;
+  padding-left: 46px;
+}

@@ -1,0 +1,46 @@
+.characters-container {
+  padding-top: 72px;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.error-text {
+  text-align: center;
+  color: red;
+  font-size: 2rem;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 38px;
+}
+
+.item-image {
+  width: 128.7px;
+  height: 128.7px;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 250px;
+  margin-left: 69px;
+  margin-right: 49px;
+}
+
+.item-text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-name {
+  color: white;
+  font-size: 42px;
+  margin-bottom: 12px;
+}
+
+.item-status {
+  font-size: 24px;
+}
